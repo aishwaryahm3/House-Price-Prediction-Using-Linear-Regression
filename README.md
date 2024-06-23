@@ -1,4 +1,4 @@
-# Linear-Regression-On-Dataset
+# House-Price-Prediction-Using-Linear-Regression
 This project demonstrates the application of both Simple Linear Regression and Multiple Linear Regression on the Boston Housing Dataset to predict housing prices. The dataset contains information collected by the U.S. Census Service concerning housing in the area of Boston, Massachusetts. The notebook walks through the process of loading the dataset, exploring the data, and applying linear regression models to predict the median value of owner-occupied homes (PRICE).
 
 ### Dataset
